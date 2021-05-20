@@ -1,6 +1,6 @@
-## Hiearchical Pyramid Split-Attention Convolution Neural Network
+## EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network
 
-This repo contains the Pytorch implementaion code and configuration files of Hiearchical Pyramid Split-Attention Convolution Neural Network. created by Hu Zhang.
+This repo contains the Pytorch implementaion code and configuration files of EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network. created by Hu Zhang.
 
 ## Installation
 
