@@ -8,7 +8,6 @@ This repo contains the Pytorch implementaion code and configuration files of EPS
 
 - Python 3.6+
 - PyTorch 1.0+
-- [thop](https://github.com/Lyken17/pytorch-OpCounter)
 
 ### Our environments
 
@@ -17,4 +16,4 @@ This repo contains the Pytorch implementaion code and configuration files of EPS
 - Toolkit: PyTorch 1.0
 - GPU: Titan RTX
 
-## Code and models Coming soon
+## Code and models are coming soon
