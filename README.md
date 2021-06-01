@@ -1,6 +1,6 @@
 ## EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network
 
-This repo contains the Pytorch implementaion code and configuration files of EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network. created by Hu Zhang.
+This repo contains the Pytorch implementaion code and configuration files of [EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network](https://arxiv.org/abs/2105.14447). created by Hu Zhang.
 
 ## Installation
 
