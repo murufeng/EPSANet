@@ -6,3 +6,4 @@ shutil
 time
 numpy
 datetime
+matplotlib
