@@ -24,11 +24,11 @@ model_names = sorted(name for name in models.__dict__
     and callable(models.__dict__[name]))
 
 parser = argparse.ArgumentParser(description='PyTorch ImageNet Training')
-parser.add_argument('--arch', '-a', metavar='ARCH', default='EPSANet50',
+parser.add_argument('--arch', '-a', metavar='ARCH', default='epsanet50',
                     choices=model_names,
                     help='model architecture: ' +
                         ' | '.join(model_names) +
-                        ' (default: EPSANet50)')
+                        ' (default: epsanet50)')
 parser.add_argument('--data', metavar='DIR',default='/path/dataset',
                     help='path to dataset')
 parser.add_argument('-j', '--workers', default=10, type=int, metavar='N',
