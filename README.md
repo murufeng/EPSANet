@@ -1,6 +1,13 @@
 ## EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network
 
+[![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
+
+[![GitHub stars](https://img.shields.io/github/stars/murufeng/EPSANet.svg?style=social&label=Stars)](https://github.com/murufeng/EPSANet)
+[![GitHub forks](https://img.shields.io/github/forks/murufeng/EPSANet.svg?style=social&label=Forks)](https://github.com/murufeng/EPSANet)
+[![HitCount](http://hits.dwyl.io/murufeng/EPSANet.svg)](http://hits.dwyl.io/murufeng/EPSANet)
+
 This repo contains the official Pytorch implementaion code and configuration files of [EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network](https://arxiv.org/abs/2105.14447). created by Hu Zhang.
+
 
 ## Installation
 
