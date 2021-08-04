@@ -111,14 +111,3 @@ Models are trained with 8 GPUs on both ImageNet and MS-COCO 2017 dataset.
 |EPSANet-50(small) | 41.20 | 248.53 | 35.9 | 57.7 | 38.1 | 
 |EPSANet-50(Large) | 46.50 | 271.10 | 37.1 | 59.0 | 39.5 | 
 
-## Citing EPSANet
-
-You can cite the paper as:
-```
-@article{hu2021epsanet,
-  title={EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network},
-  author={Hu Zhang and Keke Zu and Jian Lu and Yuru Zou and Deyu Meng},
-  journal={arXiv preprint arXiv:2105.14447},
-  year={2021}
-}
-```
