@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/murufeng/EPSANet.svg?style=social&label=Forks)](https://github.com/murufeng/EPSANet)
 
 
-This repo contains the official Pytorch implementaion code and configuration files of [EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network](https://arxiv.org/abs/2105.14447). created by Hu Zhang.
+This repo contains the official Pytorch implementaion code and configuration files of [EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network](https://arxiv.org/abs/2105.14447).
 
 
 ## Installation
