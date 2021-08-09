@@ -1,4 +1,3 @@
-## EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network
 
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 
